@@ -1,0 +1,33 @@
+1885 Ford F-143 XXX
+VIN: ajkuyh654ft643dr6
+Doors: 3
+Max Towing Limit: 2.0
+
+1999 American F-150T
+VIN: jhy64ft3ed7ujhgt5
+Motor: outboard
+
+2014 Tesla Model S
+VIN: 0qa948trldfjasdf8
+Doors: 4
+Rear Configuration: trunk
+
+2016 Yamaha 190 FSH
+VIN: sdluaw43rjearfaod
+Motor: inboard
+
+2018 Toyota Sienna
+VIN: 0mjuh65fgt4fty7r5
+Doors: 4
+Rear Configuration: hatchback
+
+2022 Ford F-150 XLT
+VIN: aero8qwaejfalskdf
+Doors: 2
+Max Towing Limit: 1.5
+
+2024 Ford Ram
+VIN: 08jgrt53dr46hgf76
+Doors: 4
+Rear Configuration: trunk
+
